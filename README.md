@@ -1,10 +1,6 @@
 # 🚀 Low-Power 8-Bit ALU in Verilog HDL
 
 <p align="center">
-  <img src="images/rtl_schematic.png" width="700">
-</p>
-
-<p align="center">
   <b>RTL Design • Functional Verification • Waveform Analysis • Yosys RTL Schematic</b>
 </p>
 
