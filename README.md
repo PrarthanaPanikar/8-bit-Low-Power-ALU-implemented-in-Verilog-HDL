@@ -104,7 +104,8 @@ Low-Power-ALU-Verilog/
 RTL schematic generated using **Yosys Open Synthesis Suite**.
 
 <p align="center">
- <img src="C:\Users\My Dell\OneDrive\Desktop\EDCIIT\VLSI\Low-Power-ALU-Verilog\images\Screenshot 2026-06-18 015158.png" width="900">
+<img width="603" height="592" alt="Screenshot 2026-06-18 015158" src="https://github.com/user-attachments/assets/113d3c77-758f-4608-8996-a2a1db3cd628" />
+
 </p>
 
 ---
@@ -114,7 +115,8 @@ RTL schematic generated using **Yosys Open Synthesis Suite**.
 Waveform generated using **GTKWave** after simulation.
 
 <p align="center">
-  <img src="C:\Users\My Dell\OneDrive\Desktop\EDCIIT\VLSI\Low-Power-ALU-Verilog\images\Screenshot 2026-06-18 013152.png" width="900">
+  <img width="1366" height="715" alt="Screenshot 2026-06-18 013152" src="https://github.com/user-attachments/assets/f492758f-e502-4da0-b664-d64a721af03e" />
+
 </p>
 
 ---
